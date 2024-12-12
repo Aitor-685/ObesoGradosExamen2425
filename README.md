@@ -9,7 +9,7 @@
   - Use el comando git config --global user.email y git config --global user.name para comprobar la configuracion y la muestra que lo he configurado bien sera que el repositorio local  se pueda conectar con el repositorio remoto
 
 5. Inicia un nou repositori Git al directori de treball on consideris. El nom del directorio ha de ser `Cognom1Cognom2Examen2425`.
-  - Use el comando mkdir Cognom1Cognom2Examen2425 y despues el git init para iniciarlo 
+  - Use el comando mkdir ObesoGradosExamen2425 y despues el git init para iniciarlo 
 
 6. Crea un document README.md, afegeix el document i fes un primer commit que amb el missatge `1 - Git init`
    - Use el comando touch README.md, lo añadi con el git add README.md y despues hice el git commit -m "1 - Git init"
