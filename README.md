@@ -72,7 +72,7 @@ El missatge del commit ha de ser "3 - README.md amb documentació inicial"
    - Use el comando git push -u origin master
 
 4. **Publica el projecte a Vercel i indica l'enllaç en el document Markdown del examen.**
-   - Este es el enlace: 
+   - Este es el enlace: https://obeso-grados-examen2425-plzffykxn-aitor-685s-projects.vercel.app/
 
 # Projecte Web
 
